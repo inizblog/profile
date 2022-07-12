@@ -70,7 +70,6 @@ body{
     width: 75px;
     line-height: 18px;
     height: 60px;
-
   }
 }
 
@@ -85,7 +84,7 @@ body{
 
 .main{
   height: auto;
-  font-size: 24px;
+  font-size: 18px;
   font-family: "Times new roman";
   width: 900px;
   padding: 70px;
